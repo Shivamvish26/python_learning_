@@ -10,7 +10,7 @@ print(bool(3.14))
 # Any non-zero number (including negative numbers like -1 or decimals like 3.14) evaluates to True.
 print(bool(""))
 # false
-# An empty string contains zero characters, making it falsy.
+# An empty string contains zero characters, making it false.
 print(bool("Python"))
 print(bool(" "))
 # True
